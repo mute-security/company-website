@@ -11,11 +11,14 @@ export default {
   data() {
     return {
       texts: [
-      "DLP That Actually Works.",
-      "No More False Positives.",
-      "Protect Data, Not Noise.",
-      "Autonomous DLP. Zero Friction.",
-      "Your Data. Always Secure."
+        "Strengthen Recovery",
+        "Reduce Data Loss",
+        "Improve Cyber Readiness",
+        "Boost Operational Resilience",
+        "Protect Critical Systems",
+        "Gain Clear Risk Visibility",
+        "Ensure Backup Confidence",
+        "Accelerate Incident Response"
       ],
       currentIndex: 0,
     };

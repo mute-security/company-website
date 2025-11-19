@@ -1,7 +1,7 @@
 {
-  "name": "teflon-landing-page",
+  "name": "mute-security-landing-page",
   "version": "1.0.0",
-  "description": "Teflon Security",
+  "description": "Mute Security",
   "main": "src/main.js",
   "scripts": {
     "serve": "vue-cli-service serve",
