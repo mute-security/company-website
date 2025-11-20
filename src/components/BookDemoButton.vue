@@ -1,6 +1,6 @@
 <template>
   <div class="button-wrapper">
-    <a href="https://calendly.com/zajogu/intro" target="_blank" class="book-demo-button">
+    <a href="https://calendly.com/sahar-mutesecurity/30min" target="_blank" class="book-demo-button">
       <span class="button-text">Schedule a call</span>
       <span class="button-icon">→</span>
     </a>
