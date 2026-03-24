@@ -11,14 +11,7 @@ export default {
   data() {
     return {
       texts: [
-        "Strengthen Recovery",
-        "Reduce Data Loss",
-        "Improve Cyber Readiness",
-        "Boost Operational Resilience",
-        "Protect Critical Systems",
-        "Gain Clear Risk Visibility",
-        "Ensure Backup Confidence",
-        "Accelerate Incident Response"
+        "",
       ],
       currentIndex: 0,
     };
