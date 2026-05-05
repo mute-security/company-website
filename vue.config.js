@@ -1,9 +1,4 @@
 module.exports = {
-  css: {
-    loaderOptions: {
-      scss: {
-        additionalData: `@import "@/assets/styles/main.scss";`
-      }
-    }
-  }
+  publicPath: '/',
+  transpileDependencies: ['vue-router'],
 };
