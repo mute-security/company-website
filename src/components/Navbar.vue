@@ -11,17 +11,9 @@
         </a>
       </div>
 
-      <button class="nav-toggle" @click="menuOpen = !menuOpen" :aria-expanded="menuOpen" aria-label="Toggle navigation">
-        <div class="hamburger" :class="{ 'is-open': menuOpen }">
-          <span></span><span></span><span></span>
-        </div>
-      </button>
+
     </div>
 
-    <!-- Mobile menu overlay -->
-    <div class="mobile-menu" :class="{ 'mobile-menu--open': menuOpen }">
-      <a href="mailto:contact@mutesecurity.com" class="btn btn-primary btn-lg" @click="closeMenu">Book a Demo</a>
-    </div>
   </nav>
 </template>
 
